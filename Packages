@@ -30,6 +30,24 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: com.vitataf.homegesture
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: MidnightChips/PINPAL
+Installed-Size: 2936
+Pre-Depends: com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
+Filename: ./debs/com.vitataf.homegesture.deb
+Size: 2249680
+MD5sum: 02a36027a61cdfb1bd3148ebbac9434e
+SHA1: 35295f4cbc2f7b4b5c35f328d90114dc91130e44
+SHA256: 37a345f166a489d5c2de29eff605cfc4c18d59b2c138ba5a0b100db355421c4f
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices.
+Author: VitaTaf/MidnightChips/PINPAL
+Icon: https://cdn.discordapp.com/attachments/418170831592488972/465268776091254815/icon.png
+Name: HomeGesture
+
 Package: xyz.royalapps.jellyfish
 Version: 1.0.2
 Architecture: iphoneos-arm
