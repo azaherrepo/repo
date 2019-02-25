@@ -12,18 +12,18 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: xyz.royalapps.jellyfish_1.0.2_iphoneos-arm
+Package: xyz.royalapps.jellyfish
 Version: 1.0.2
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0)
+Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/xyz.royalapps.jellyfish_1.0.2_iphoneos-arm.deb
+Filename: ./debs/xyz.royalapps.jellyfish.deb
 Size: 13792
 MD5sum: 2af9cd34e3a3f6627e92aecf98118fa9
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Jellyfish
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=xyz.royalapps.jellyfish_1.0.2_iphoneos-arm
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=xyz.royalapps.jellyfish
 
 
