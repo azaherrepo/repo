@@ -22,7 +22,7 @@ Filename: ./debs/xyz.royalapps.jellyfish_1.0.2_iphoneos-arm.deb
 Size: 13792
 MD5sum: 2af9cd34e3a3f6627e92aecf98118fa9
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+Name: Jellyfish
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=xyz.royalapps.jellyfish_1.0.2_iphoneos-arm
 
