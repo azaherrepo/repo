@@ -30,7 +30,7 @@ SHA256: 1fcf00d4ad9f1c7146f22ada2c62a42d68c265dc895fc6362801725a5f7a7b1b
 Section: Tweaks
 Description: Night Mode (and more!) for all your apps!
 Author: Guillermo Morán (fr0st)
-Depiction: http://azaherrepo.github.io/repo/depictions/?p=me.gmoran.eclipsex
+Depiction: https://azaherrepo.github.io/repo/depictions/?p=me.gmoran.eclipsex
 Name: Eclipse X (iOS 11)
 
 Package: xyz.royalapps.jellyfish
