@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: xyz.royalapps.jellyfish_1.0.2_iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Justin Proulx and AppleBetas
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/xyz.royalapps.jellyfish_1.0.2_iphoneos-arm.deb
+Size: 13792
+MD5sum: 2af9cd34e3a3f6627e92aecf98118fa9
+Description: Modernize your Lock screen. — Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.
+Name: Jellyfish
+Author: Justin Proulx
+Depiction: https://azaherrepo.github.io/repo/depictions/callproxi
+
