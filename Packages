@@ -13,9 +13,9 @@ SHA256: bfcaa54f9fcdd57df11bf04596db23e97b3f7844bbcd42e4e47145cb863557bf
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
 Description: Color your notifications
-Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios10, compatible::ios11
 Author: David Goldman <help@golddavid.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+Depiction: https://azaherrepo.github.io/repo/depictions/?p=com.golddavid.colorbanners2
 Dev: goldmandavid0
 Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@2x.png
 Name: ColorBanners 2
