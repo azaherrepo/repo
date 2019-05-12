@@ -30,9 +30,28 @@
 				,"titleElement"	    : "<h5>"
 				,"paragraphContainer": "<ul class='list-group'>"
 				,"paragraphElement"	: "<li class='list-group-item'>"
+        ,"mainBttn" : 
 
+        {
+          "type":"custom"
+                ,"source" :"package>changelog>change"
+                ,"render":function(element, source){
+                    $("#changelogLink").remove();
+                    if ($(source).size() == 0) {
+                        return
+                    }
+                    // create changelog link
+                    $("#changesList").append(
+                        $("<a class='link-item list-group-item'>")
+                            .attr("href","https://azaherrepo.github.io/repo/depictions/?p="+bundleid)
+                            .text("Back")
+                    );
+                }
+        }
 			}
 	}
+
+
     $( document ).ready(function() {
         $.ajax({
             type    : "GET",
@@ -48,7 +67,10 @@
             }
         }); //ajax
 		
-    }); // ready
+    }); 
+
+
+    // ready
   </script>
 </head>
 <body>
@@ -64,6 +86,9 @@
 		<strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository. 
 	  </div>
 	</div>
+</div>
+<div class="container" id="mainPage">
+  <a href="https://azaherrepo.github.io/repo/depictions/?p=" id="mainBttn">
 </div>
 <!-- REPO FOOTER -->
 <script type="text/javascript">
