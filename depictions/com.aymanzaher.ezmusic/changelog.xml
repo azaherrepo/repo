@@ -1,4 +1,10 @@
 <changelog>
+    <changes>
+        <version>1.2</version>
+        <change>UI Chnages</change>
+        <change>Added a scopebar to refine searches</change>
+        <change>General improvements</change>
+    </changes>
 	<changes>
         <version>1.1</version>
         <change>Bug fixes</change>
