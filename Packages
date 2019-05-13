@@ -1,17 +1,16 @@
 Package: com.aymanzaher.ezmusic
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Ayman Zaher
-Installed-Size: 192,414,900
+Installed-Size: 192639799
 Filename: ./debs/com.aymanzaher.ezmusic.deb
-Size: 50721432
-MD5sum: 090219618e7c13d015c120f0a140d59a
-SHA1: 4a1cf90c7976eaa20c28fb0e3316999e508090c3
-SHA256: 65da2c07e6641bd5cad2e2736cb37497d7f7bb6b51cb597f50f4660a91273aa7
+Size: 50865108
+MD5sum: 4d9eb8e629de41d014939c0b0c036c5c
+SHA1: e88781c43d8bdb19fb724c3ca5b918898e2f0bee
+SHA256: d0ba50928a2818369420748d521ccd7e6ad2c7dd4fdf8ab63421dc106746622d
 Section: Multimedia
 Description: A music streamer/downloader
 Author: Ayman Zaher
 Dev: Ayman Zaher
 Name: EZ Music
 Depiction: https://azaherrepo.github.io/repo/depictions/?p=com.aymanzaher.ezmusic
-Icon: https://azaherrepo.github.io/repo/depictions/com.aymanzaher.ezmusic/icon.png
